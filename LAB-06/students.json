@@ -1,0 +1,13 @@
+[
+  { "id": 1, "name": "Aarav Mehta", "grade": "A", "section": "1" },
+  { "id": 2, "name": "Ishita Sharma", "grade": "B", "section": "2" },
+  { "id": 3, "name": "Rohan Malhotra", "grade": "A+", "section": "1" },
+
+  { "id": 4, "name": "Neeraj Iyer", "grade": "9.8 CGPA", "section": "BCA" },
+  { "id": 5, "name": "Pooja Deshpande", "grade": "8.7 CGPA", "section": "BCA" },
+  { "id": 6, "name": "Kunal Verma", "grade": "4.9 CGPA", "section": "BCA" },
+  { "id": 7, "name": "Ananya Rao", "grade": "7.6 CGPA", "section": "BCA" },
+  { "id": 8, "name": "Sahil Khanna", "grade": "6.8 CGPA", "section": "BCA" },
+  { "id": 9, "name": "Dev Patel", "grade": "8.2 CGPA", "section": "BCA" },
+  { "id": 10, "name": "Ritika Banerjee", "grade": "7.1 CGPA", "section": "BCA" }
+]
