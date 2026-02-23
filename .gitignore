@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Android build outputs (ALL labs)
+**/android/build/
+**/android/app/build/
+**/android/.gradle/
+**/android/app/.cxx/
+**/*.apk
+**/*.so
+
+# iOS
+**/ios/Pods/
+**/ios/build/
+
+# Mac
+.DS_Store

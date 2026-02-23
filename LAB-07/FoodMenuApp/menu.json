@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Paneer Butter Masala", "category": "Veg", "price": 250, "rating": 4.5 },
+  { "id": 2, "name": "Chicken Biryani", "category": "Non-Veg", "price": 300, "rating": 4.7 },
+  { "id": 3, "name": "Cold Coffee", "category": "Beverage", "price": 120, "rating": 4.2 }
+]
